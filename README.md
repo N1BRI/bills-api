@@ -1,5 +1,4 @@
 # bills-api
-###brian beegan <brianbeegan@protonmail.com>_
 
 ## A Basic RESTful API in Common Lisp
 
