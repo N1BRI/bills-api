@@ -1,6 +1,6 @@
 # bills-api
 
-## A Basic RESTful API in Common Lisp
+## A Basic Bills-Tracking RESTful API
 
 Starting to track my bills a little more closely seemed like a
 kind of not useless thing to do. :stuck_out_tongue:
